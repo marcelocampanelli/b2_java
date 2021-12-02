@@ -6,7 +6,7 @@
 - Git
 
 ## Depois que clonar o repositório instale as dependencias com `npm install`
-## E pronto depois disso está tudo certo, só escutar
+## E pronto depois disso está tudo certo, só executar
 - ` ./gradlew ` Para executar o back end
 - `npm start` para executar o front
 
